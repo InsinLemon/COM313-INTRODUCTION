@@ -1,0 +1,15 @@
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/bin/Debug/net6.0/DataTypes
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/bin/Debug/net6.0/DataTypes.deps.json
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/bin/Debug/net6.0/DataTypes.runtimeconfig.json
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/bin/Debug/net6.0/DataTypes.dll
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/bin/Debug/net6.0/DataTypes.pdb
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/obj/Debug/net6.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/obj/Debug/net6.0/DataTypes.AssemblyInfoInputs.cache
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/obj/Debug/net6.0/DataTypes.AssemblyInfo.cs
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/obj/Debug/net6.0/DataTypes.csproj.CoreCompileInputs.cache
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/obj/Debug/net6.0/DataTypes.sourcelink.json
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/obj/Debug/net6.0/DataTypes.dll
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/obj/Debug/net6.0/refint/DataTypes.dll
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/obj/Debug/net6.0/DataTypes.pdb
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/obj/Debug/net6.0/DataTypes.genruntimeconfig.cache
+/Users/MAC/Desktop/Start/COM313-INTRODUCTION/C# Essential/Overview/DataTypes/obj/Debug/net6.0/ref/DataTypes.dll
